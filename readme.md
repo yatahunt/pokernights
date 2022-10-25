@@ -3,7 +3,7 @@
 standings 24-Oct
 
 | player | Previous ELO | Ketroc | rasper | yatahunt | mindme | cryptious  | Phantom |  ELO change| New ELO |
-| --- | --- | --- | --- | --- | ---  | --- |  --- | --- |
+| ---  | --- | --- | --- | --- | --- | ---  | --- |  --- | --- |
 | Ketroc | 1600 | - | +4  | +4 | +4 | +4   | +4 |  +20| 1620 |
 | mindme | 1616 | -3 | +4  | +4 | - | +4   | +4 |  +16| 1616 |
 | cryptious | 1609 | -3| +4 | +4 | -3  | -  | +4|  +9 | 1609 |
