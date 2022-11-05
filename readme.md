@@ -3,23 +3,23 @@ standings 4-Nov
   
 | player | Previous ELO | Ketroc | rasper | yatahunt | mindme | cryptious  | Phantom |  ELO change| New ELO |
 | ---  | ---            | ---    | ---    | ---      | ---    | ---        | ---     |  ---       | --- |
-| Ketroc         | 1620 | -      |  +4  | +4 | +4 | +4   | - |  +20| 1620 |
-| mindme         | 1615 | -3  | +4  | -3 | -  | +4   | -  |  -1 | 1615 |
-| yatahunt       | 1601 | -3  | +4  | -  | +4 | +4   | - |  +13 | 1601 |
-| Phantom        | 1601 | -   | -   | -  | -  | -    | - |  - | 1601 |
-| cryptious      | 1601 | -3  | +4  | -3 | -3 | -    | - |  -8 | 1601 |
-| rasper         | 1602 | -3  | -   | -3 | -3 | -3   | - |  -15 | 1587 |
+| cryptious      | 1601 | +4     | +4     | +4       | +4     | -          | - |  +16 | 1617 |
+| mindme         | 1615 | +4     | -3     | -3       | -      | -3         | -  |  -5 | 1610 |
+| Ketroc         | 1620 | -      |  -3    | -3       | -3     | -3         | -       |  -12| 1608 |
+| yatahunt       | 1601 | +4     | -3     | -        | +4     | -3         | - |  +2 | 1603 |
+| Phantom        | 1601 | -      | -      | -        | -      | -          | - |  - | 1601 |
+| rasper         | 1587 | +4     | -      | +4       | +4     | -3         | - |  +9 | 1596 |
 
 
 Results 4 Nov
 | player | Chips |  
 |---|---| 
-| Ketroc | -7876 |
-| yatahunt | -3683 |  
-| mindme | -5000 |   
+
 | cryptious | 12053  |  
 | rasper | 4506 |
-
+| yatahunt | -3683 |  
+| mindme | -5000 |   
+| Ketroc | -7876 |
 
 standings 24-Oct
 
