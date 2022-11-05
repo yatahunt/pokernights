@@ -14,7 +14,6 @@ standings 4-Nov
 Results 4 Nov
 | player | Chips |  
 |---|---| 
-
 | cryptious | 12053  |  
 | rasper | 4506 |
 | yatahunt | -3683 |  
