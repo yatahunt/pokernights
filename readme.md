@@ -1,3 +1,25 @@
+standings 02-Dec
+
+| player | Previous ELO | Andyman | Ketroc | rasper   | yatahunt | mindme | cryptious  | Phantom |  ELO change| New ELO |
+| ---  | ---            | ---      | ---   | ---      | ---      | ---    | ---        | ---     |  ---       | --- |
+| cryptious      | 1645 |   -      | +4      | -     | -4       | +4       | -          | +3 |  +7 | 1652 |
+| Andyman        | 1609 | -        | -     |  -      | -        | -        | -         | - |  - | 1609 |
+| yatahunt       | 1589 |   -      | +4    | -     | -        | +4      | +5            | +4 |  +17 | 1606 |
+| mindme         | 1603 |   -      | +4      | -     | -3       | -        | -3         | +4 |  +2 | 1605 |
+| Ketroc         | 1606 |   -      | -     |  -    | -3          | -3      | -3         | +4       |  -5 | 1601 |
+| rasper         | 1598 |  -       | -    | -      | -          | -      | -             | - |  - | 1598 |
+| Phantom        | 1601 |  -       | -3    | -      | -3        | -3       | -2          | - |  -8 | 1593 |
+
+
+Results 02-Dec
+| player | Chips |  
+|---|---| 
+| yatahunt | 6948 |
+| cryptious | 3830  |  
+| mindme | 2337 |
+| ketroc | -3115 |
+| Phantom | -10000 | 
+
 standings 23-Nov
 
 | player | Previous ELO | Andyman | Ketroc | rasper   | yatahunt | mindme | cryptious  | Phantom |  ELO change| New ELO |
